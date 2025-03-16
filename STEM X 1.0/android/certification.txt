@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the STEM X 1.0
+---------------------------------------------------
+
+app_name - 						STEM X
+app_alias - 					stemx
+app_author_name - 				Praveen kumar,pravalesh
+app_author_organizational - 	pk groups of companies
+app_author_organization - 		stem information technologies
+app_author_locality - 			Tamil nadu
+app_author_state - 				kanchipuram
+app_author_country - 			India
+app_password - 					CiF3EHMb86Fj
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 5th of December 2024 11:10:37 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
